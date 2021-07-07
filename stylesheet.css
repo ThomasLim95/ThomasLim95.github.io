@@ -241,6 +241,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #fff;
+    background-color: #0080ff;
     .dribbble {
         position: fixed;
         display: block;
